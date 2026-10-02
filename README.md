@@ -1,6 +1,6 @@
 # C Dynamic Buffer
 
-A lightweight implementation of a dynamically growing character buffer in C, using manual memory management and pointer-based state updates.
+A lightweight implementation of a dynamically growing character buffer in C using manual memory management and pointer-based state updates.
 
 ## Features
 
